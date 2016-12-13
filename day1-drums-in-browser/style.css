@@ -1,0 +1,22 @@
+html, body {
+  font-family: sans-serif;
+}
+.drums {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100vh;
+  flex: 1;
+}
+.key {
+  width: 100px;
+  border-radius: 3px;
+  margin: 0.5rem;
+  background: tomato;
+  color: white;
+  text-align: center;
+  padding: 0.5rem;
+}
+.played {
+  
+}
